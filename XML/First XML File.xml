@@ -1,0 +1,19 @@
+<class>
+<!--This is the database for a song playlist that includes
+title name and more info. --> 
+	<song>
+		<title>Gucci Gang</title>
+		<artist> Lil Pump</artist>
+		<genre> Hip-hop</genre>
+	</song>
+        <song>
+		<title>Nightmare</title>
+		<artist> Avenged Sevenfold</artist>
+		<genre> Metal</genre>
+	</song>
+   	<song>
+		<title>The Sound of Silence</title>
+		<artist> Simon & Garfunkel</artist>
+		<genre> Rock</genre>
+	</song>
+</class>
